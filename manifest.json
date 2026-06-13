@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "CatCare — Carnet Medical Pisici",
   "short_name": "CatCare",
@@ -24,4 +25,32 @@
       "purpose": "any maskable"
     }
   ]
+=======
+{
+  "name": "CatCare — Carnet Medical Pisici",
+  "short_name": "CatCare",
+  "description": "Carnet medical digital pentru pisicile tale",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0D1B2A",
+  "theme_color": "#0D1B2A",
+  "orientation": "portrait-primary",
+  "lang": "ro",
+  "categories": ["health", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+>>>>>>> 7de533405273403ef03de7ba832073dcabe2a0b6
 }
